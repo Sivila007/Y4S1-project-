@@ -1,0 +1,31 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "A program greeting"
+  },
+  "splashScreenTitle": "Splash",
+  "@splashScreenTitle": {
+    "description": "Title for the Splash screen"
+  },
+  "homeScreenTitle": "Home",
+  "@homeScreenTitle": {
+    "description": "Title for the Home screen"
+  },
+  "authScreenTitle": "Authentication",
+  "@authScreenTitle": {
+    "description": "Title for the Auth screen"
+  },
+  "profileScreenTitle": "Profile",
+  "@profileScreenTitle": {
+    "description": "Title for the Profile screen"
+  },
+  "settingScreenTitle": "Setting",
+  "@settingScreenTitle": {
+    "description": "Title for the Setting screen"
+  }
+}
